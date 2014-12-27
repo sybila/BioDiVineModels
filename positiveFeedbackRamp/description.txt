@@ -1,0 +1,8 @@
+Simple model to illustrate principles of bistability.
+Consists of three states. 
+Two stable states(0,2) are reachable from the central state(1).
+Middle state is also reachable under small portion of 
+parametric space (0-0.51) from state 2. 
+
+Therefore the given property holds not only in state 1, but
+also in state 2 for parameter valuation 0.51.

@@ -1,0 +1,9 @@
+Simple ODE model.
+
+Contains lot of transitions.
+Good for scalability illustrations and stress testing.
+
+Given property is designed to cover most of the state space
+at least two times, therefore ensures nontrivial memory usage.
+
+Can be easily scaled by adding more variables.

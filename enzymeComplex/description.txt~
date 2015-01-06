@@ -1,0 +1,6 @@
+Describes a situation when several enzymes influence production of each other in a linear chain.
+That means: first ezyme influences production of second one, second enzyme influences production of third one and so on...
+Given models are all different cases of this scenario with various number of enzymes.
+
+(Note: the biggest one contains 4^20 states)
+

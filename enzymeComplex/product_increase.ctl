@@ -1,2 +1,2 @@
-#define a P>60
+#define a P>30
 #property AG !a 
